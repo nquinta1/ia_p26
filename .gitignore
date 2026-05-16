@@ -149,6 +149,7 @@ celerybeat.pid
 .env
 .envrc
 .venv
+clase/23_reinforcement_learning/deep_rl/.venv/
 env/
 venv/
 ENV/
@@ -227,3 +228,13 @@ ehthumbs.db
 Thumbs.db
 Desktop.ini
 clase/b_libros/
+
+# Homework solutions (do not distribute)
+*_SOLUCION.ipynb
+CLAUDE.md
+openspec/
+.claude/
+clase/exams
+
+.claude/commands
+.claude/skills

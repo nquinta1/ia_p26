@@ -1,0 +1,57 @@
+{
+  "qtable": {
+    "final_avg50": 33.4,
+    "max_single_ep": 131.0,
+    "max_avg50": 44.5,
+    "ep_cross200": null,
+    "ep_cross300": null,
+    "ep_cross400": null,
+    "ep_cross475": null,
+    "first10_avg": 25.8,
+    "last50_avg": 33.4,
+    "nonzero_cells": 291,
+    "visited_pairs": 445
+  },
+  "sarsa": {
+    "final_avg50": 44.2,
+    "max_single_ep": 247.0,
+    "max_avg50": 61.5,
+    "ep_cross200": null,
+    "ep_cross300": null,
+    "ep_cross400": null,
+    "ep_cross475": null,
+    "first10_avg": 23.8,
+    "last50_avg": 44.2,
+    "nonzero_cells": 319,
+    "visited_pairs": 499
+  },
+  "qlearning": {
+    "final_avg50": 64.9,
+    "max_single_ep": 290.0,
+    "max_avg50": 70.1,
+    "ep_cross200": null,
+    "ep_cross300": null,
+    "ep_cross400": null,
+    "ep_cross475": null,
+    "first10_avg": 19.8,
+    "last50_avg": 64.9,
+    "nonzero_cells": 477,
+    "visited_pairs": 692
+  },
+  "dqn": {
+    "final_avg50": 387.5,
+    "max_single_ep": 500.0,
+    "max_avg50": 412.1,
+    "ep_cross200": 289,
+    "ep_cross300": 307,
+    "ep_cross400": 480,
+    "ep_cross475": null,
+    "first10_avg": 18.7,
+    "last50_avg": 387.5,
+    "buffer_full_episode": 4,
+    "loss_at_start": 0.5616,
+    "loss_at_end": 34.5552,
+    "loss_reduction_pct": -6052.6,
+    "total_steps": 95389
+  }
+}
